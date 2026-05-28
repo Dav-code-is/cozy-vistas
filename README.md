@@ -1,6 +1,6 @@
 # cozy-vistas 🌌
 
-A hand-picked, curated collection of 19 high-quality atmospheric, scenic, and classical oil painting landscapes. 
+A hand-picked, curated collection of high-quality atmospheric, scenic, and classical oil painting landscapes. 
 
 ## Features
 * **Resolution:** High-quality assets up to 4K ($3840 \times 2400$).
