@@ -19,8 +19,8 @@ To grab the entire collection at once, click the green **Code** button at the to
 | <img src="a_car_parked_in_a_dark_alley.jpg" width="500"> | `a_car_parked_in_a_dark_alley.jpg` | JPG |
 | <img src="a_group_of_bamboo_trees_01.jpg" width="500"> | `a_group_of_bamboo_trees_01.jpg` | JPG |
 | <img src="a_group_of_tall_buildings_with_clouds_in_the_sky.png" width="500"> | `a_group_of_tall_buildings_with_clouds_in_the_sky.png` | PNG |
-| <img src="a_painting_of_a_man_with_a_dripping_face.png" width="500"> | `a_painting_of_a_man_with_a_dripping_face.png` | PNG |
-| <img src="a_painting_of_a_man_with_a_face_on_his_head.jpg" width="500"> | `a_painting_of_a_man_with_a_face_on_his_head.jpg` | JPG |
+| <img src="a_painting_of_a_man_with_a_dripping_face.jpg" width="500"> | `a_painting_of_a_man_with_a_dripping_face.png` | JPG |
+| <img src="a_painting_of_a_man_with_a_face_on_his_head.png" width="500"> | `a_painting_of_a_man_with_a_face_on_his_head.jpg` | PNG |
 | <img src="autumn-streets.png" width="500"> | `autumn-streets.png` | PNG |
 | <img src="barn.png" width="500"> | `barn.png` | PNG |
 | <img src="beachside.png" width="500"> | `beachside.png` | PNG |
