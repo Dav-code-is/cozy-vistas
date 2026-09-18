@@ -14,7 +14,7 @@ To grab the entire collection at once, click the green **Code** button at the to
 
 | Preview | File Name | Format |
 | :---: | :--- | :---: |
-| <img src="cozy-oil-painting.png" width="160"> | `cozy-oil-painting.png` | PNG |
+| <img src="cozy-oil-painting.png" width="340"> | `cozy-oil-painting.png` | PNG |
 | <img src="a_painting_of_a_man_with_a_dripping_face.jpg" width="160"> | `a_painting_of_a_man_with_a_dripping_face.jpg` | JPG |
 | <img src="snowy-mountain.png" width="160"> | `snowy-mountain.png` | PNG |
 | <img src="bw_anime-girl.png" width="160"> | `bw_anime-girl.png` | PNG |
