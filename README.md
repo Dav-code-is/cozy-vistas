@@ -47,7 +47,7 @@ To grab the entire collection at once, click the green **Code** button at the to
 | <img src="pixel-workshop.png" width="500"> | `pixel-workshop.png` | PNG |
 | <img src="pond-painting.png" width="500"> | `pond-painting.png` | PNG |
 | <img src="railway.png" width="500"> | `railway.png` | PNG |
-| <img src="railway.png" width="500"> | `railway.png` | PNG |
+| <img src="valley-house.png" width="500"> | `valley-house.png` | PNG |
 | <img src="snow-night-moon.png" width="500"> | `snow-night-moon.png` | PNG |
 | <img src="street.png" width="500"> | `street.png` | PNG |
 | <img src="tropic_island_day.jpg" width="500"> | `tropic_island_day.jpg` | PNG |
