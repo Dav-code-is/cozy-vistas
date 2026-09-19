@@ -4,7 +4,6 @@ A hand-picked, curated collection of high-quality atmospheric, scenic, and class
 
 ## Features
 * **Resolution:** High-quality assets up to 4K (3840 × 2400).
-* **Aspect Ratio:** Predominantly **16:10**—ideal for modern high-resolution laptops and productivity displays (easily croppable to 16:9 via OS settings).
 * **Themes:** 19th-century classical oil paintings, cozy pixel art workshops, serene anime-style landscapes, Dark Surrealism.
 
 ## How to Download
